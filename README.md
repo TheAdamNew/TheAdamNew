@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheAdamNew
 - 👀 I’m interested in Java, NodeJS,
-- 🌱 I’m currently learning Java (2yr experience)
+- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on Minecraft plugins.
 - 📫 How to reach me Discord: jerkerx
 - 😄 Pronouns: He/Him
