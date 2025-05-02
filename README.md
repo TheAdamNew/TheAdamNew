@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheAdamNew
-- 👀 I’m interested in Java, Minecraft
+- 👀 I’m interested in Java, NodeJS,
 - 🌱 I’m currently learning Java (2yr experience)
 - 💞️ I’m looking to collaborate on Minecraft plugins.
 - 📫 How to reach me Discord: jerkerx
