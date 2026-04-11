@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/theee_adam" target="blank"><img src="https://img.shields.io/twitter/follow/theee_adam?logo=twitter&style=for-the-badge" alt="theee_adam" /></a> </p>
 
-- 🔭 I’m currently working on [Brutality Client](https://brutality.lol)
+- 🔭 I’m currently working on Minecraft Servers
 
 - 🌱 I’m currently learning **NodeJS, C++, C#**
 
-- 👯 I’m looking to collaborate on **a Bedrock Cheat.**
-
-- 🤝 I’m looking for help with **An Injection Client**
+- 🤝 I’m looking for help with **An AntiCheat Plugin**
 
 - 👨‍💻 All of my projects are available at [e-z.bio/theadamnew](e-z.bio/theadamnew)
 
@@ -21,7 +19,6 @@
 
 - 📫 How to reach me **jerkerx on discord.**
 
-- ⚡ Fun fact **I'm a retired minecraft server griefer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
